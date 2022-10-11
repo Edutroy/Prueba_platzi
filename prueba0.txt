@@ -1,1 +1,2 @@
 This is the first script for git :)
+now it's  is a adition to know the version of git 
