@@ -1,2 +1,5 @@
 This is the first script for git :)
 now it's  is a adition to know the version of git 
+I'm going to introduce myself
+an do another kind of things
+Change in classes wow 4
